@@ -1,0 +1,32 @@
+.container
+{
+    justify-content: center;
+    background-color:bisque;
+    display:flex;
+
+}
+.form
+{
+    background-color: darkgray;
+    padding:20px;
+    justify-content: center;
+    font-size:30px;
+    border-radius: 20px;
+}
+button{
+    font-size: large;
+    border-radius:10px;
+    color:white;
+    background-color: crimson;
+    padding:10px;
+}
+input{
+    font-size: large;
+    font-family: sans-serif;
+    margin-top: 20px solid black;
+    margin-left: 20px solid black;
+    margin-right: 20px solid black;
+    margin-bottom: 20px solid black;
+    padding:10px;
+    border-radius: 10px;
+}
